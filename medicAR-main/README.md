@@ -1,2 +1,0 @@
-# medicARe
-Submission for hackCBS
