@@ -20,7 +20,15 @@ medicARe is an AR app built using Unity engine devised to get edtech and healthc
 <h3>Features:</h3>
 - AR View: Augments 3D visualization of biological concepts in the real world with supported user interaction.<br>
 - ProFit: Workout training module implemented in 3D using augmented reality(to be extended into virtual reality as well).<br>
-- Gamified fitness: VR-based module comprising gamified activities aiming to energize the user.
+- Gamified fitness: VR-based module comprising gamified activities aiming to energize the user.<br>
+<h3> Demo for all three tracks :</h3>
+
+
+https://user-images.githubusercontent.com/78910289/200156832-3d7f5a1e-95b1-406d-9f56-209bf5f03214.mp4
+
+https://user-images.githubusercontent.com/78910289/200157250-25a54f83-38ce-44f7-9731-5941e467acd0.mp4
+
+
 <br>
 <h3>Tools and technologies used:</h3>
   - Augmented reality(Unity Game Engine)<br>
@@ -32,11 +40,6 @@ medicARe is an AR app built using Unity engine devised to get edtech and healthc
 -  Online medical stores.<br>
 -  To generate revenue for the app, increase the client’s customers simultaneously benefiting the end users by providing them the best of their services at the best       possible prices.<br>
  <h3>Mental health:</h3> Integration of AR virtual assistant using to counsel and to analyze the state of the user using NLP and respond accordingly.
-
-
-
-
-
 
 <h3>Team members</h3>
 1. <a href="https://github.com/arshivaastha">Astha </a><br>
