@@ -12,11 +12,10 @@
 4. Make sure the lighting is good enough to augment the models and you are scanning a plane surface for ground detection.
 
 #Team members
-1. Astha 
-2. Alok Prajapati
-3. Anupam Tiwari
+ Astha <a href="https://linkedin.com/in/anupam1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupam1603" height="30" width="40" /></a>
+
+ Alok Prajapati <a href="https://linkedin.com/in/anupam1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupam1603" height="30" width="40" /></a>
+
+ Anupam Tiwari <a href="https://linkedin.com/in/anupam1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupam1603" height="30" width="40" /></a>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
